@@ -9,4 +9,5 @@
   align-items: center;
   padding-left: 64px;
   position: relative;
+  overflow: hidden;
 }
