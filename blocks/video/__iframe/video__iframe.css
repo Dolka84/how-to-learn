@@ -3,6 +3,7 @@
   height: 316px;
   transform: translateY(60px);
   z-index: 2;
+  border: hidden;
 }
 .video__iframe:nth-child(2n) {
   margin-left: 20px;
